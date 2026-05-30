@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://https://en-naqqach.github.io/obsidian-DRL/</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>RL</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/rl.canvas</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/rl.canvas</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 30 May 2026 19:07:01 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/tags/</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 30 May 2026 19:07:01 GMT</pubDate>
+  </item><item>
+    <title>DQN</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/dqn</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/dqn</guid>
+    <description><![CDATA[ A Deep Q-Network (DQN) is a value-based Deep Reinforcement Learning algorithm that uses a neural network to approximate the Q-function, which estimates the expected cumulative reward of taking a specific action in a given state. ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item><item>
+    <title>PPO</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/ppo</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/ppo</guid>
+    <description><![CDATA[ PPO (Proximal Policy Optimization) is an advanced Actor-Critic reinforcement learning algorithm developed by OpenAI. ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item><item>
+    <title>Policy Gradient</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/policy-gradient</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/policy-gradient</guid>
+    <description><![CDATA[ Instead of learning: the value of actions (like Q-learning),Policy Gradient methods directly learn the policy itself. ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item><item>
+    <title>Policy Network</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/policy-network</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/policy-network</guid>
+    <description><![CDATA[ A Policy Network is a neural network that directly learns a policy, i.e., a mapping from states to actions. ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item><item>
+    <title>Rienforce</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/rienforce</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/rienforce</guid>
+    <description><![CDATA[ REINFORCE is the simplest Policy Gradient algorithm. ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item><item>
+    <title>Squelette de Actor Critic</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/squelette-de-actor-critic</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/squelette-de-actor-critic</guid>
+    <description><![CDATA[ Actor-Critic is a reinforcement learning architecture that combines policy-based and value-based methods. ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item><item>
+    <title>TD</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/td</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/td</guid>
+    <description><![CDATA[ The Critic computes the TD Error, which measures the difference between the predicted value and the observed value: δ=r+γV(s′)−V(s) where: r = reward received γ = discount factor V(s) = current state’s value V(s’) = next state’s value δ = TD Error . ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://https:/en-naqqach.github.io/obsidian-DRL/</link>
+    <guid>https://https:/en-naqqach.github.io/obsidian-DRL/</guid>
+    <description><![CDATA[ EN-NAQQACH Mohssine AI - Groupe A 🧠 Deep Reinforcement Learning Algorithms DQN Policy Network Policy Gradient Rienforce Squelette de Actor Critic PPO TD Schema RL.canvas . ]]></description>
+    <pubDate>Sat, 30 May 2026 19:02:08 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
