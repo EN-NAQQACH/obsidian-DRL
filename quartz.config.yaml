@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: en-naqqach.github.io/obsidian-DRL
+  baseUrl: https://en-naqqach.github.io/obsidian-DRL/
   ignorePatterns:
     - private
     - templates
